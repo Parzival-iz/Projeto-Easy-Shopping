@@ -1,10 +1,30 @@
-<h2>Projeto Easy Shopping</h2>
+# Projeto Easy Shopping
 
-<p>Esse foi meu primeiro projeto responsivo. Usando linguagens como HTML e CSS, fiz meu primeiro projeto CSS no meu curso do Dev CLub</p>
+## 📌 Sobre o Projeto
+Este é o meu primeiro projeto responsivo, desenvolvido durante o curso no Dev Club. O objetivo foi criar uma aplicação de compras online com design adaptável para diferentes dispositivos, utilizando HTML e CSS.
 
+## 🚀 Tecnologias Utilizadas
+- **HTML**
+- **CSS**
 
-<h3>Tecnologias usadas:</h3>
+## 🎨 Funcionalidades
+- Layout responsivo que se adapta a diversos tamanhos de tela.
+- Estrutura semântica com HTML.
+- Estilização e design utilizando CSS.
 
-- <img height="28px" alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-- <img height="28px" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+## 📂 Como Executar o Projeto
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/Parzival-iz/Projeto-Easy-Shopping.git
+   ```
+2. Acesse a pasta do projeto:
+   ```bash
+   cd Projeto-Easy-Shopping
+   ```
+3. Abra o arquivo `index.html` em seu navegador preferido.
 
+## 📌 Melhorias Futuras
+- Implementar funcionalidades com JavaScript para interatividade.
+- Adicionar animações e transições para uma melhor experiência do usuário.
+
+📌 **Desenvolvido por [Saymon Viana](https://github.com/Parzival-iz)** 💻🚀
